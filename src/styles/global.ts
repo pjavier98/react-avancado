@@ -38,7 +38,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html {
-    font-size: 62.5%;
+    font-size: 62.5%; // 16px default * 0.625 => 10px
   }
 
   html, body, #__next {
